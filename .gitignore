@@ -1,3 +1,4 @@
 .idea/
 agent/RuleEngine.iml
 platform/MagicOTP.iml
+*/.DS_Store
